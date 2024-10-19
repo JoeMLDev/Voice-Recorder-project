@@ -1,6 +1,6 @@
 # Voice Recorder Project
 
-This project is a simple voice recorder application that allows users to record audio from their microphone and save it as audio files. The application is built using Python and its libraries for audio processing.
+This project is a simple voice recorder application built with Python and Tkinter. It allows users to record audio from their microphone, save it as audio files, and provides a user-friendly graphical interface.
 
 ## Table of Contents
 
@@ -20,9 +20,10 @@ To run this project, clone the repository and ensure you have the required libra
 
 You will need Python 3.x and the following libraries:
 
-- sounddevice
-- numpy
-- wave
+- `tkinter` (usually included with Python)
+- `sounddevice`
+- `numpy`
+- `wave`
 
 You can install the required libraries using pip:
 
